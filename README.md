@@ -1,22 +1,44 @@
-# KAVIN L
+# Kavin L
 
-📧 kavinlakshmanan2003@gmail.com 📱 9500383636 ▪ [LinkedIn](https://www.linkedin.com/in/kavin-l-0a5b58214/)
+📧 **Email**: [kavinlakshmanan2003@gmail.com](mailto:kavinlakshmanan2003@gmail.com)  
+🔗 **Portfolio**: [Personal Website](https://kavinlakshmanan.github.io/College_Module/)  
+💻 **GitHub**: [kavin-java](https://github.com/kavinlakshmanan)  
+🔗 **Live Links**: [Projects and More](https://kavinlakshmanan.github.io/College_Module/)
 
-## Personal Projects
-- Developed and refined GDP and Rainfall Prediction models
-  - ![ML Project](https://img.icons8.com/external-soft-fill-juicy-fish/60/external-machine-big-data-soft-fill-soft-fill-juicy-fish)
 
-- Initiated the creation of an Android App using Python Kivy
+## Links
 
-- Presented a paper on FEA Analysis of composite materials at a prestigious international conference
+- ![GitHub](https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-original.svg)
+-  **GitHub**: [kavinlakshmanan](https://github.com/kavinlakshmanan)
+-  **LinkedIn**: [kavin-l](https://www.linkedin.com/in/kavin-l-0a5b58214/)
+-  **Code 360**: [Kavinlakshmanan](https://www.naukri.com/code360/profile/Kavinlakshmanan)
+-   **LeetCode**: [kavinlakshmanan](https://leetcode.com/u/kavinlakshmanan/)
+-    **GeeksforGeeks**: [kavinlmxf4a](https://www.geeksforgeeks.org/user/kavinlmxf4a/)
 
-- Led a team in Dermatological Analysis using ResNet and DenseNet architectures for the Smart India Hackathon
-  - ![SIH Project](https://img.icons8.com/color/48/artificial-intelligence)
 
-## Certificates
-- Python Boot-camp ▪ Udemy (04/2022)
- - ![Python Certificate](https://img.icons8.com/color/48/python--v2)
-- NPTEL (Data Science) ▪ Indian Institute of Technology, Madras (03/2023)
-- Oracle Cloud Database ▪ Oracle (09/2023)
- - ![Java Certificate](https://img.icons8.com/color/48/java-coffee-cup-logo--v1)
-- Java SE 11 ▪ Oracle (02/2024)
+
+
+## Skills
+
+
+
+**Programming**  
+- **Advanced**: Java • OOPs • Python  
+- **Intermediate**: HTML • CSS • MySQL • Git  
+- **Familiar**: DSA • Spring • Spring Boot • TensorFlow • Keras • API • Servlet
+
+
+## Coursework
+
+
+- **Java SE 11** (Oracle) 
+- **AI and Machine Learning** (TCS ion) 
+- **Data Structures and Algorithms** 
+- **Python Bootcamp** 
+- **NPTEL Data Science** 
+- **Ongoing**: Spring • Spring Boot 
+- **Web-Development Bootcamp**
+
+
+
+For more information, visit my [Personal Website](https://kavinlakshmanan.github.io/College_Module/).
