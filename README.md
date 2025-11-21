@@ -1,4 +1,4 @@
-# Kavin L
+# Kavin Lakshmanan
 
 -  **Code 360**: [Kavinlakshmanan](https://www.naukri.com/code360/profile/Kavinlakshmanan)
 -   **LeetCode**: [kavinlakshmanan](https://leetcode.com/u/kavinlakshmanan/)
