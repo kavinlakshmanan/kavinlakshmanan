@@ -8,7 +8,7 @@
 
 ## Links
 
-- ![GitHub](https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-original.svg)
+
 -  **GitHub**: [kavinlakshmanan](https://github.com/kavinlakshmanan)
 -  **LinkedIn**: [kavin-l](https://www.linkedin.com/in/kavin-l-0a5b58214/)
 -  **Code 360**: [Kavinlakshmanan](https://www.naukri.com/code360/profile/Kavinlakshmanan)
