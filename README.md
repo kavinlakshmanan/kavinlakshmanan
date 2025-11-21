@@ -16,29 +16,4 @@
 -    **GeeksforGeeks**: [kavinlmxf4a](https://www.geeksforgeeks.org/user/kavinlmxf4a/)
 
 
-
-
-## Skills
-
-
-
-**Programming**  
-- **Advanced**: Java • OOPs • Python  
-- **Intermediate**: HTML • CSS • MySQL • Git  
-- **Familiar**: DSA • Spring • Spring Boot • TensorFlow • Keras • API • Servlet
-
-
-## Coursework
-
-
-- **Java SE 11** (Oracle) 
-- **AI and Machine Learning** (TCS ion) 
-- **Data Structures and Algorithms** 
-- **Python Bootcamp** 
-- **NPTEL Data Science** 
-- **Ongoing**: Spring • Spring Boot 
-- **Web-Development Bootcamp**
-
-
-
 For more information, visit my [Personal Website](https://kavinlakshmanan.github.io/College_Module/).
