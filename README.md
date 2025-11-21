@@ -1,9 +1,9 @@
 # Kavin L
 
-📧 **Email**: [kavinlakshmanan2003@gmail.com](mailto:kavinlakshmanan2003@gmail.com)  
-🔗 **Portfolio**: [Personal Website](https://kavinlakshmanan.github.io/College_Module/)  
-💻 **GitHub**: [kavin-java](https://github.com/kavinlakshmanan)  
-🔗 **Live Links**: [Projects and More](https://kavinlakshmanan.github.io/College_Module/)
+**Email**: [kavinlakshmanan2003@gmail.com](mailto:kavinlakshmanan2003@gmail.com)  
+**Portfolio**: [Personal Website](https://kavinlakshmanan.github.io/College_Module/)  
+**GitHub**: [kavin-java](https://github.com/kavinlakshmanan)  
+**Live Links**: [Projects and More](https://kavinlakshmanan.github.io/College_Module/)
 
 
 ## Links
